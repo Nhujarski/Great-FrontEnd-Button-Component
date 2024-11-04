@@ -1,7 +1,7 @@
 .button-container {
     display: flex;
     align-items: center;
-    margin-top: 150px;
+    margin-top: 125px;
     flex-direction: column;
     row-gap: 48px;
 }
